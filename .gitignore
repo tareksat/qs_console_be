@@ -1,0 +1,7 @@
+node_modules
+test.js
+__pycache__
+.dist
+run
+console.zip
+*.spec
